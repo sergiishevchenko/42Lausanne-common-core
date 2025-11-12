@@ -25,54 +25,227 @@ The projects progress from basic C programming fundamentals to advanced system p
 
 ### Rank 00 - Foundation
 
-| Project | Type | Description | Technologies | Status |
-|:-------:|:----:|:-----------:|:------------:|:-----:|
-| **libft** | Solo | Custom implementation of standard C library functions and data structures (linked lists, memory management) | C | ✅ Done |
+<table>
+<thead>
+<tr>
+<th width="20%" align="center">Project</th>
+<th width="10%" align="center">Type</th>
+<th width="45%" align="center">Description</th>
+<th width="15%" align="center">Technologies</th>
+<th width="10%" align="center">Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="20%" align="center"><strong>libft</strong></td>
+<td width="10%" align="center">Solo</td>
+<td width="45%" align="center">Custom implementation of standard C library functions and data structures (linked lists, memory management)</td>
+<td width="15%" align="center">C</td>
+<td width="10%" align="center">✅ Done</td>
+</tr>
+</tbody>
+</table>
 
 ### Rank 01 - Basics
 
-| Project | Type | Description | Technologies | Status |
-|:-------:|:----:|:-----------:|:------------:|:-----:|
-| **get_next_line** | Solo | Read lines from a file descriptor with dynamic memory allocation and buffer management | C | ✅ Done |
-| **ft_printf** | Solo | Recreation of the printf function with variadic arguments, format specifiers, and type handling | C | ✅ Done |
-| **born2beroot** | Solo | System administration project: Debian server setup, user management, firewall configuration | Bash, VM, Debian | ✅ Done |
+<table>
+<thead>
+<tr>
+<th width="20%" align="center">Project</th>
+<th width="10%" align="center">Type</th>
+<th width="45%" align="center">Description</th>
+<th width="15%" align="center">Technologies</th>
+<th width="10%" align="center">Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="20%" align="center"><strong>get_next_line</strong></td>
+<td width="10%" align="center">Solo</td>
+<td width="45%" align="center">Read lines from a file descriptor with dynamic memory allocation and buffer management</td>
+<td width="15%" align="center">C</td>
+<td width="10%" align="center">✅ Done</td>
+</tr>
+<tr>
+<td width="20%" align="center"><strong>ft_printf</strong></td>
+<td width="10%" align="center">Solo</td>
+<td width="45%" align="center">Recreation of the printf function with variadic arguments, format specifiers, and type handling</td>
+<td width="15%" align="center">C</td>
+<td width="10%" align="center">✅ Done</td>
+</tr>
+<tr>
+<td width="20%" align="center"><strong>born2beroot</strong></td>
+<td width="10%" align="center">Solo</td>
+<td width="45%" align="center">System administration project: Debian server setup, user management, firewall configuration</td>
+<td width="15%" align="center">Bash, VM, Debian</td>
+<td width="10%" align="center">✅ Done</td>
+</tr>
+</tbody>
+</table>
 
 ### Rank 02 - Algorithms & Graphics
 
-| Project | Type | Description | Technologies | Status |
-|:-------:|:----:|:-----------:|:------------:|:-----:|
-| **minitalk** | Solo | Inter-process communication using Unix signals (SIGUSR1/SIGUSR2) for message transmission | C, Signals | ✅ Done |
-| **so_long** | Solo | 2D game development with MiniLibX: player movement, collectibles, collision detection | C, MiniLibX | ✅ Done |
-| **push_swap** | Solo | Sorting algorithm optimization challenge with limited operations (stack manipulation) | C | ✅ Done |
+<table>
+<thead>
+<tr>
+<th width="20%" align="center">Project</th>
+<th width="10%" align="center">Type</th>
+<th width="45%" align="center">Description</th>
+<th width="15%" align="center">Technologies</th>
+<th width="10%" align="center">Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="20%" align="center"><strong>minitalk</strong></td>
+<td width="10%" align="center">Solo</td>
+<td width="45%" align="center">Inter-process communication using Unix signals (SIGUSR1/SIGUSR2) for message transmission</td>
+<td width="15%" align="center">C, Signals</td>
+<td width="10%" align="center">✅ Done</td>
+</tr>
+<tr>
+<td width="20%" align="center"><strong>so_long</strong></td>
+<td width="10%" align="center">Solo</td>
+<td width="45%" align="center">2D game development with MiniLibX: player movement, collectibles, collision detection</td>
+<td width="15%" align="center">C, MiniLibX</td>
+<td width="10%" align="center">✅ Done</td>
+</tr>
+<tr>
+<td width="20%" align="center"><strong>push_swap</strong></td>
+<td width="10%" align="center">Solo</td>
+<td width="45%" align="center">Sorting algorithm optimization challenge with limited operations (stack manipulation)</td>
+<td width="15%" align="center">C</td>
+<td width="10%" align="center">✅ Done</td>
+</tr>
+</tbody>
+</table>
 
 ### Rank 03 - System Programming
 
-| Project | Type | Description | Technologies | Status |
-|:-------:|:----:|:-----------:|:------------:|:-----:|
-| **philosophers** | Solo | Multithreaded solution to the dining philosophers problem with mutexes and deadlock prevention | C, pthreads | ✅ Done |
-| **minishell** | Group | Unix shell implementation with command parsing, pipes, redirections, and built-in commands | C | ✅ Done |
+<table>
+<thead>
+<tr>
+<th width="20%" align="center">Project</th>
+<th width="10%" align="center">Type</th>
+<th width="45%" align="center">Description</th>
+<th width="15%" align="center">Technologies</th>
+<th width="10%" align="center">Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="20%" align="center"><strong>philosophers</strong></td>
+<td width="10%" align="center">Solo</td>
+<td width="45%" align="center">Multithreaded solution to the dining philosophers problem with mutexes and deadlock prevention</td>
+<td width="15%" align="center">C, pthreads</td>
+<td width="10%" align="center">✅ Done</td>
+</tr>
+<tr>
+<td width="20%" align="center"><strong>minishell</strong></td>
+<td width="10%" align="center">Group</td>
+<td width="45%" align="center">Unix shell implementation with command parsing, pipes, redirections, and built-in commands</td>
+<td width="15%" align="center">C</td>
+<td width="10%" align="center">✅ Done</td>
+</tr>
+</tbody>
+</table>
 
 ### Rank 04 - Advanced C & Networking
 
-| Project | Type | Description | Technologies | Status |
-|:-------:|:----:|:-----------:|:------------:|:-----:|
-| **netpractice** | Solo | IPv4 networking fundamentals: subnetting, routing, and network configuration | Networking | ✅ Done |
-| **cub3d** | Group | 3D raycasting game engine inspired by Wolfenstein 3D with texture mapping | C, MiniLibX | ✅ Done |
-| **c++ modules 00-04** | Solo | Object-oriented programming basics: classes, inheritance, polymorphism, operator overloading, exceptions | C++ | ✅ Done |
+<table>
+<thead>
+<tr>
+<th width="20%" align="center">Project</th>
+<th width="10%" align="center">Type</th>
+<th width="45%" align="center">Description</th>
+<th width="15%" align="center">Technologies</th>
+<th width="10%" align="center">Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="20%" align="center"><strong>netpractice</strong></td>
+<td width="10%" align="center">Solo</td>
+<td width="45%" align="center">IPv4 networking fundamentals: subnetting, routing, and network configuration</td>
+<td width="15%" align="center">Networking</td>
+<td width="10%" align="center">✅ Done</td>
+</tr>
+<tr>
+<td width="20%" align="center"><strong>cub3d</strong></td>
+<td width="10%" align="center">Group</td>
+<td width="45%" align="center">3D raycasting game engine inspired by Wolfenstein 3D with texture mapping</td>
+<td width="15%" align="center">C, MiniLibX</td>
+<td width="10%" align="center">✅ Done</td>
+</tr>
+<tr>
+<td width="20%" align="center"><strong>c++ modules 00-04</strong></td>
+<td width="10%" align="center">Solo</td>
+<td width="45%" align="center">Object-oriented programming basics: classes, inheritance, polymorphism, operator overloading, exceptions</td>
+<td width="15%" align="center">C++</td>
+<td width="10%" align="center">✅ Done</td>
+</tr>
+</tbody>
+</table>
 
 ### Rank 05 - Web & DevOps
 
-| Project | Type | Description | Technologies | Status |
-|:-------:|:----:|:-----------:|:------------:|:-----:|
-| **c++ modules 05-09** | Solo | Advanced C++ concepts: templates, STL containers, file I/O, and design patterns | C++ | ✅ Done |
-| **webserv** | Group | HTTP/1.1 web server implementation from scratch (RFC 7230-7235 compliant) with CGI support | C++ | ✅ Done |
-| **inception** | Solo | Docker-based infrastructure setup: WordPress, NGINX, MariaDB with Docker Compose | Docker, Linux | ✅ Done |
+<table>
+<thead>
+<tr>
+<th width="20%" align="center">Project</th>
+<th width="10%" align="center">Type</th>
+<th width="45%" align="center">Description</th>
+<th width="15%" align="center">Technologies</th>
+<th width="10%" align="center">Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="20%" align="center"><strong>c++ modules 05-09</strong></td>
+<td width="10%" align="center">Solo</td>
+<td width="45%" align="center">Advanced C++ concepts: templates, STL containers, file I/O, and design patterns</td>
+<td width="15%" align="center">C++</td>
+<td width="10%" align="center">✅ Done</td>
+</tr>
+<tr>
+<td width="20%" align="center"><strong>webserv</strong></td>
+<td width="10%" align="center">Group</td>
+<td width="45%" align="center">HTTP/1.1 web server implementation from scratch (RFC 7230-7235 compliant) with CGI support</td>
+<td width="15%" align="center">C++</td>
+<td width="10%" align="center">✅ Done</td>
+</tr>
+<tr>
+<td width="20%" align="center"><strong>inception</strong></td>
+<td width="10%" align="center">Solo</td>
+<td width="45%" align="center">Docker-based infrastructure setup: WordPress, NGINX, MariaDB with Docker Compose</td>
+<td width="15%" align="center">Docker, Linux</td>
+<td width="10%" align="center">✅ Done</td>
+</tr>
+</tbody>
+</table>
 
 ### Rank 06 - Full-Stack
 
-| Project | Type | Description | Technologies | Status |
-|:-------:|:----:|:-----------:|:------------:|:-----:|
-| **ft_transcendence** | Group | Full-stack web application with real-time multiplayer Pong game, authentication, chat, and user profiles | TypeScript, NestJS | ✅ Done |
+<table>
+<thead>
+<tr>
+<th width="20%" align="center">Project</th>
+<th width="10%" align="center">Type</th>
+<th width="45%" align="center">Description</th>
+<th width="15%" align="center">Technologies</th>
+<th width="10%" align="center">Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="20%" align="center"><strong>ft_transcendence</strong></td>
+<td width="10%" align="center">Group</td>
+<td width="45%" align="center">Full-stack web application with real-time multiplayer Pong game, authentication, chat, and user profiles</td>
+<td width="15%" align="center">TypeScript, NestJS</td>
+<td width="10%" align="center">✅ Done</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
