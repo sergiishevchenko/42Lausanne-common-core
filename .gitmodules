@@ -1,33 +1,33 @@
 [submodule "libft"]
 	path = libft
-	url = https://github.com/serg-backend-developer/libft
+	url = https://github.com/sergiishevchenko/libft
 [submodule "ft_printf"]
 	path = ft_printf
-	url = https://github.com/serg-backend-developer/ft_printf
+	url = https://github.com/sergiishevchenko/ft_printf
 [submodule "get_next_line"]
 	path = get_next_line
-	url = https://github.com/serg-backend-developer/get_next_line
+	url = https://github.com/sergiishevchenko/get_next_line
 [submodule "so_long"]
 	path = so_long
-	url = https://github.com/serg-backend-developer/so_long
+	url = https://github.com/sergiishevchenko/so_long
 [submodule "minitalk"]
 	path = minitalk
-	url = https://github.com/serg-backend-developer/minitalk
+	url = https://github.com/sergiishevchenko/minitalk
 [submodule "push-swap"]
 	path = push-swap
-	url = https://github.com/serg-backend-developer/push-swap
+	url = https://github.com/sergiishevchenko/push-swap
 [submodule "minishell"]
 	path = minishell
-	url = https://github.com/serg-backend-developer/minishell
+	url = https://github.com/sergiishevchenko/minishell
 [submodule "philosophers"]
 	path = philosophers
-	url = https://github.com/serg-backend-developer/philosophers
+	url = https://github.com/sergiishevchenko/philosophers
 [submodule "inception"]
 	path = inception
-	url = https://github.com/serg-backend-developer/inception
+	url = https://github.com/sergiishevchenko/inception
 [submodule "42webserv"]
 	path = 42webserv
-	url = https://github.com/serg-backend-developer/42webserv
+	url = https://github.com/sergiishevchenko/42webserv
 [submodule "cub3d"]
 	path = cub3d
-	url = https://github.com/serg-backend-developer/cub3d
+	url = https://github.com/sergiishevchenko/cub3d
