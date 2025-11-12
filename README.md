@@ -25,224 +25,224 @@ The projects progress from basic C programming fundamentals to advanced system p
 
 ### Rank 00 - Foundation
 
-<table>
+<table style="text-align: center; vertical-align: middle;">
 <thead>
 <tr>
-<th width="20%">Project</th>
-<th width="10%">Type</th>
-<th width="45%">Description</th>
-<th width="15%">Technologies</th>
-<th width="10%">Status</th>
+<th width="20%" style="text-align: center; vertical-align: middle;">Project</th>
+<th width="10%" style="text-align: center; vertical-align: middle;">Type</th>
+<th width="45%" style="text-align: center; vertical-align: middle;">Description</th>
+<th width="15%" style="text-align: center; vertical-align: middle;">Technologies</th>
+<th width="10%" style="text-align: center; vertical-align: middle;">Status</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><strong>libft</strong></td>
-<td>Solo</td>
-<td>Custom implementation of standard C library functions and data structures (linked lists, memory management)</td>
-<td>C</td>
-<td>✅ Done</td>
+<td style="text-align: center; vertical-align: middle;"><strong>libft</strong></td>
+<td style="text-align: center; vertical-align: middle;">Solo</td>
+<td style="text-align: center; vertical-align: middle;">Custom implementation of standard C library functions and data structures (linked lists, memory management)</td>
+<td style="text-align: center; vertical-align: middle;">C</td>
+<td style="text-align: center; vertical-align: middle;">✅ Done</td>
 </tr>
 </tbody>
 </table>
 
 ### Rank 01 - Basics
 
-<table>
+<table style="text-align: center; vertical-align: middle;">
 <thead>
 <tr>
-<th width="20%">Project</th>
-<th width="10%">Type</th>
-<th width="45%">Description</th>
-<th width="15%">Technologies</th>
-<th width="10%">Status</th>
+<th width="20%" style="text-align: center; vertical-align: middle;">Project</th>
+<th width="10%" style="text-align: center; vertical-align: middle;">Type</th>
+<th width="45%" style="text-align: center; vertical-align: middle;">Description</th>
+<th width="15%" style="text-align: center; vertical-align: middle;">Technologies</th>
+<th width="10%" style="text-align: center; vertical-align: middle;">Status</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><strong>get_next_line</strong></td>
-<td>Solo</td>
-<td>Read lines from a file descriptor with dynamic memory allocation and buffer management</td>
-<td>C</td>
-<td>✅ Done</td>
+<td style="text-align: center; vertical-align: middle;"><strong>get_next_line</strong></td>
+<td style="text-align: center; vertical-align: middle;">Solo</td>
+<td style="text-align: center; vertical-align: middle;">Read lines from a file descriptor with dynamic memory allocation and buffer management</td>
+<td style="text-align: center; vertical-align: middle;">C</td>
+<td style="text-align: center; vertical-align: middle;">✅ Done</td>
 </tr>
 <tr>
-<td><strong>ft_printf</strong></td>
-<td>Solo</td>
-<td>Recreation of the printf function with variadic arguments, format specifiers, and type handling</td>
-<td>C</td>
-<td>✅ Done</td>
+<td style="text-align: center; vertical-align: middle;"><strong>ft_printf</strong></td>
+<td style="text-align: center; vertical-align: middle;">Solo</td>
+<td style="text-align: center; vertical-align: middle;">Recreation of the printf function with variadic arguments, format specifiers, and type handling</td>
+<td style="text-align: center; vertical-align: middle;">C</td>
+<td style="text-align: center; vertical-align: middle;">✅ Done</td>
 </tr>
 <tr>
-<td><strong>born2beroot</strong></td>
-<td>Solo</td>
-<td>System administration project: Debian server setup, user management, firewall configuration</td>
-<td>Bash, VM, Debian</td>
-<td>✅ Done</td>
+<td style="text-align: center; vertical-align: middle;"><strong>born2beroot</strong></td>
+<td style="text-align: center; vertical-align: middle;">Solo</td>
+<td style="text-align: center; vertical-align: middle;">System administration project: Debian server setup, user management, firewall configuration</td>
+<td style="text-align: center; vertical-align: middle;">Bash, VM, Debian</td>
+<td style="text-align: center; vertical-align: middle;">✅ Done</td>
 </tr>
 </tbody>
 </table>
 
 ### Rank 02 - Algorithms & Graphics
 
-<table>
+<table style="text-align: center; vertical-align: middle;">
 <thead>
 <tr>
-<th width="20%">Project</th>
-<th width="10%">Type</th>
-<th width="45%">Description</th>
-<th width="15%">Technologies</th>
-<th width="10%">Status</th>
+<th width="20%" style="text-align: center; vertical-align: middle;">Project</th>
+<th width="10%" style="text-align: center; vertical-align: middle;">Type</th>
+<th width="45%" style="text-align: center; vertical-align: middle;">Description</th>
+<th width="15%" style="text-align: center; vertical-align: middle;">Technologies</th>
+<th width="10%" style="text-align: center; vertical-align: middle;">Status</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><strong>minitalk</strong></td>
-<td>Solo</td>
-<td>Inter-process communication using Unix signals (SIGUSR1/SIGUSR2) for message transmission</td>
-<td>C, Signals</td>
-<td>✅ Done</td>
+<td style="text-align: center; vertical-align: middle;"><strong>minitalk</strong></td>
+<td style="text-align: center; vertical-align: middle;">Solo</td>
+<td style="text-align: center; vertical-align: middle;">Inter-process communication using Unix signals (SIGUSR1/SIGUSR2) for message transmission</td>
+<td style="text-align: center; vertical-align: middle;">C, Signals</td>
+<td style="text-align: center; vertical-align: middle;">✅ Done</td>
 </tr>
 <tr>
-<td><strong>so_long</strong></td>
-<td>Solo</td>
-<td>2D game development with MiniLibX: player movement, collectibles, collision detection</td>
-<td>C, MiniLibX</td>
-<td>✅ Done</td>
+<td style="text-align: center; vertical-align: middle;"><strong>so_long</strong></td>
+<td style="text-align: center; vertical-align: middle;">Solo</td>
+<td style="text-align: center; vertical-align: middle;">2D game development with MiniLibX: player movement, collectibles, collision detection</td>
+<td style="text-align: center; vertical-align: middle;">C, MiniLibX</td>
+<td style="text-align: center; vertical-align: middle;">✅ Done</td>
 </tr>
 <tr>
-<td><strong>push_swap</strong></td>
-<td>Solo</td>
-<td>Sorting algorithm optimization challenge with limited operations (stack manipulation)</td>
-<td>C</td>
-<td>✅ Done</td>
+<td style="text-align: center; vertical-align: middle;"><strong>push_swap</strong></td>
+<td style="text-align: center; vertical-align: middle;">Solo</td>
+<td style="text-align: center; vertical-align: middle;">Sorting algorithm optimization challenge with limited operations (stack manipulation)</td>
+<td style="text-align: center; vertical-align: middle;">C</td>
+<td style="text-align: center; vertical-align: middle;">✅ Done</td>
 </tr>
 </tbody>
 </table>
 
 ### Rank 03 - System Programming
 
-<table>
+<table style="text-align: center; vertical-align: middle;">
 <thead>
 <tr>
-<th width="20%">Project</th>
-<th width="10%">Type</th>
-<th width="45%">Description</th>
-<th width="15%">Technologies</th>
-<th width="10%">Status</th>
+<th width="20%" style="text-align: center; vertical-align: middle;">Project</th>
+<th width="10%" style="text-align: center; vertical-align: middle;">Type</th>
+<th width="45%" style="text-align: center; vertical-align: middle;">Description</th>
+<th width="15%" style="text-align: center; vertical-align: middle;">Technologies</th>
+<th width="10%" style="text-align: center; vertical-align: middle;">Status</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><strong>philosophers</strong></td>
-<td>Solo</td>
-<td>Multithreaded solution to the dining philosophers problem with mutexes and deadlock prevention</td>
-<td>C, pthreads</td>
-<td>✅ Done</td>
+<td style="text-align: center; vertical-align: middle;"><strong>philosophers</strong></td>
+<td style="text-align: center; vertical-align: middle;">Solo</td>
+<td style="text-align: center; vertical-align: middle;">Multithreaded solution to the dining philosophers problem with mutexes and deadlock prevention</td>
+<td style="text-align: center; vertical-align: middle;">C, pthreads</td>
+<td style="text-align: center; vertical-align: middle;">✅ Done</td>
 </tr>
 <tr>
-<td><strong>minishell</strong></td>
-<td>Group</td>
-<td>Unix shell implementation with command parsing, pipes, redirections, and built-in commands</td>
-<td>C</td>
-<td>✅ Done</td>
+<td style="text-align: center; vertical-align: middle;"><strong>minishell</strong></td>
+<td style="text-align: center; vertical-align: middle;">Group</td>
+<td style="text-align: center; vertical-align: middle;">Unix shell implementation with command parsing, pipes, redirections, and built-in commands</td>
+<td style="text-align: center; vertical-align: middle;">C</td>
+<td style="text-align: center; vertical-align: middle;">✅ Done</td>
 </tr>
 </tbody>
 </table>
 
 ### Rank 04 - Advanced C & Networking
 
-<table>
+<table style="text-align: center; vertical-align: middle;">
 <thead>
 <tr>
-<th width="20%">Project</th>
-<th width="10%">Type</th>
-<th width="45%">Description</th>
-<th width="15%">Technologies</th>
-<th width="10%">Status</th>
+<th width="20%" style="text-align: center; vertical-align: middle;">Project</th>
+<th width="10%" style="text-align: center; vertical-align: middle;">Type</th>
+<th width="45%" style="text-align: center; vertical-align: middle;">Description</th>
+<th width="15%" style="text-align: center; vertical-align: middle;">Technologies</th>
+<th width="10%" style="text-align: center; vertical-align: middle;">Status</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><strong>netpractice</strong></td>
-<td>Solo</td>
-<td>IPv4 networking fundamentals: subnetting, routing, and network configuration</td>
-<td>Networking</td>
-<td>✅ Done</td>
+<td style="text-align: center; vertical-align: middle;"><strong>netpractice</strong></td>
+<td style="text-align: center; vertical-align: middle;">Solo</td>
+<td style="text-align: center; vertical-align: middle;">IPv4 networking fundamentals: subnetting, routing, and network configuration</td>
+<td style="text-align: center; vertical-align: middle;">Networking</td>
+<td style="text-align: center; vertical-align: middle;">✅ Done</td>
 </tr>
 <tr>
-<td><strong>cub3d</strong></td>
-<td>Group</td>
-<td>3D raycasting game engine inspired by Wolfenstein 3D with texture mapping</td>
-<td>C, MiniLibX</td>
-<td>✅ Done</td>
+<td style="text-align: center; vertical-align: middle;"><strong>cub3d</strong></td>
+<td style="text-align: center; vertical-align: middle;">Group</td>
+<td style="text-align: center; vertical-align: middle;">3D raycasting game engine inspired by Wolfenstein 3D with texture mapping</td>
+<td style="text-align: center; vertical-align: middle;">C, MiniLibX</td>
+<td style="text-align: center; vertical-align: middle;">✅ Done</td>
 </tr>
 <tr>
-<td><strong>c++ modules 00-04</strong></td>
-<td>Solo</td>
-<td>Object-oriented programming basics: classes, inheritance, polymorphism, operator overloading, exceptions</td>
-<td>C++</td>
-<td>✅ Done</td>
+<td style="text-align: center; vertical-align: middle;"><strong>c++ modules 00-04</strong></td>
+<td style="text-align: center; vertical-align: middle;">Solo</td>
+<td style="text-align: center; vertical-align: middle;">Object-oriented programming basics: classes, inheritance, polymorphism, operator overloading, exceptions</td>
+<td style="text-align: center; vertical-align: middle;">C++</td>
+<td style="text-align: center; vertical-align: middle;">✅ Done</td>
 </tr>
 </tbody>
 </table>
 
 ### Rank 05 - Web & DevOps
 
-<table>
+<table style="text-align: center; vertical-align: middle;">
 <thead>
 <tr>
-<th width="20%">Project</th>
-<th width="10%">Type</th>
-<th width="45%">Description</th>
-<th width="15%">Technologies</th>
-<th width="10%">Status</th>
+<th width="20%" style="text-align: center; vertical-align: middle;">Project</th>
+<th width="10%" style="text-align: center; vertical-align: middle;">Type</th>
+<th width="45%" style="text-align: center; vertical-align: middle;">Description</th>
+<th width="15%" style="text-align: center; vertical-align: middle;">Technologies</th>
+<th width="10%" style="text-align: center; vertical-align: middle;">Status</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><strong>c++ modules 05-09</strong></td>
-<td>Solo</td>
-<td>Advanced C++ concepts: templates, STL containers, file I/O, and design patterns</td>
-<td>C++</td>
-<td>✅ Done</td>
+<td style="text-align: center; vertical-align: middle;"><strong>c++ modules 05-09</strong></td>
+<td style="text-align: center; vertical-align: middle;">Solo</td>
+<td style="text-align: center; vertical-align: middle;">Advanced C++ concepts: templates, STL containers, file I/O, and design patterns</td>
+<td style="text-align: center; vertical-align: middle;">C++</td>
+<td style="text-align: center; vertical-align: middle;">✅ Done</td>
 </tr>
 <tr>
-<td><strong>webserv</strong></td>
-<td>Group</td>
-<td>HTTP/1.1 web server implementation from scratch (RFC 7230-7235 compliant) with CGI support</td>
-<td>C++</td>
-<td>✅ Done</td>
+<td style="text-align: center; vertical-align: middle;"><strong>webserv</strong></td>
+<td style="text-align: center; vertical-align: middle;">Group</td>
+<td style="text-align: center; vertical-align: middle;">HTTP/1.1 web server implementation from scratch (RFC 7230-7235 compliant) with CGI support</td>
+<td style="text-align: center; vertical-align: middle;">C++</td>
+<td style="text-align: center; vertical-align: middle;">✅ Done</td>
 </tr>
 <tr>
-<td><strong>inception</strong></td>
-<td>Solo</td>
-<td>Docker-based infrastructure setup: WordPress, NGINX, MariaDB with Docker Compose</td>
-<td>Docker, Linux</td>
-<td>✅ Done</td>
+<td style="text-align: center; vertical-align: middle;"><strong>inception</strong></td>
+<td style="text-align: center; vertical-align: middle;">Solo</td>
+<td style="text-align: center; vertical-align: middle;">Docker-based infrastructure setup: WordPress, NGINX, MariaDB with Docker Compose</td>
+<td style="text-align: center; vertical-align: middle;">Docker, Linux</td>
+<td style="text-align: center; vertical-align: middle;">✅ Done</td>
 </tr>
 </tbody>
 </table>
 
 ### Rank 06 - Full-Stack
 
-<table>
+<table style="text-align: center; vertical-align: middle;">
 <thead>
 <tr>
-<th width="20%">Project</th>
-<th width="10%">Type</th>
-<th width="45%">Description</th>
-<th width="15%">Technologies</th>
-<th width="10%">Status</th>
+<th width="20%" style="text-align: center; vertical-align: middle;">Project</th>
+<th width="10%" style="text-align: center; vertical-align: middle;">Type</th>
+<th width="45%" style="text-align: center; vertical-align: middle;">Description</th>
+<th width="15%" style="text-align: center; vertical-align: middle;">Technologies</th>
+<th width="10%" style="text-align: center; vertical-align: middle;">Status</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><strong>ft_transcendence</strong></td>
-<td>Group</td>
-<td>Full-stack web application with real-time multiplayer Pong game, authentication, chat, and user profiles</td>
-<td>TypeScript, NestJS</td>
-<td>✅ Done</td>
+<td style="text-align: center; vertical-align: middle;"><strong>ft_transcendence</strong></td>
+<td style="text-align: center; vertical-align: middle;">Group</td>
+<td style="text-align: center; vertical-align: middle;">Full-stack web application with real-time multiplayer Pong game, authentication, chat, and user profiles</td>
+<td style="text-align: center; vertical-align: middle;">TypeScript, NestJS</td>
+<td style="text-align: center; vertical-align: middle;">✅ Done</td>
 </tr>
 </tbody>
 </table>
