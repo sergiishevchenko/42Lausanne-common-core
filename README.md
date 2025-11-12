@@ -25,54 +25,227 @@ The projects progress from basic C programming fundamentals to advanced system p
 
 ### Rank 00 - Foundation
 
-| Project | Type | Description | Technologies | Status |
-|---------|------|-------------|--------------|--------|
-| **Libft** | Solo | Custom implementation of standard C library functions and data structures (linked lists, memory management) | C | ✅ Done |
+<table>
+<thead>
+<tr>
+<th width="20%">Project</th>
+<th width="10%">Type</th>
+<th width="45%">Description</th>
+<th width="15%">Technologies</th>
+<th width="10%">Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>libft</strong></td>
+<td>Solo</td>
+<td>Custom implementation of standard C library functions and data structures (linked lists, memory management)</td>
+<td>C</td>
+<td>✅ Done</td>
+</tr>
+</tbody>
+</table>
 
 ### Rank 01 - Basics
 
-| Project | Type | Description | Technologies | Status |
-|---------|------|-------------|--------------|--------|
-| **get_next_line** | Solo | Read lines from a file descriptor with dynamic memory allocation and buffer management | C | ✅ Done |
-| **ft_printf** | Solo | Recreation of the printf function with variadic arguments, format specifiers, and type handling | C | ✅ Done |
-| **Born2BeRoot** | Solo | System administration project: Debian server setup, user management, firewall configuration | Bash, VM, Debian | ✅ Done |
+<table>
+<thead>
+<tr>
+<th width="20%">Project</th>
+<th width="10%">Type</th>
+<th width="45%">Description</th>
+<th width="15%">Technologies</th>
+<th width="10%">Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>get_next_line</strong></td>
+<td>Solo</td>
+<td>Read lines from a file descriptor with dynamic memory allocation and buffer management</td>
+<td>C</td>
+<td>✅ Done</td>
+</tr>
+<tr>
+<td><strong>ft_printf</strong></td>
+<td>Solo</td>
+<td>Recreation of the printf function with variadic arguments, format specifiers, and type handling</td>
+<td>C</td>
+<td>✅ Done</td>
+</tr>
+<tr>
+<td><strong>born2beroot</strong></td>
+<td>Solo</td>
+<td>System administration project: Debian server setup, user management, firewall configuration</td>
+<td>Bash, VM, Debian</td>
+<td>✅ Done</td>
+</tr>
+</tbody>
+</table>
 
 ### Rank 02 - Algorithms & Graphics
 
-| Project | Type | Description | Technologies | Status |
-|---------|------|-------------|--------------|--------|
-| **minitalk** | Solo | Inter-process communication using Unix signals (SIGUSR1/SIGUSR2) for message transmission | C, Signals | ✅ Done |
-| **so_long** | Solo | 2D game development with MiniLibX: player movement, collectibles, collision detection | C, MiniLibX | ✅ Done |
-| **push_swap** | Solo | Sorting algorithm optimization challenge with limited operations (stack manipulation) | C | ✅ Done |
+<table>
+<thead>
+<tr>
+<th width="20%">Project</th>
+<th width="10%">Type</th>
+<th width="45%">Description</th>
+<th width="15%">Technologies</th>
+<th width="10%">Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>minitalk</strong></td>
+<td>Solo</td>
+<td>Inter-process communication using Unix signals (SIGUSR1/SIGUSR2) for message transmission</td>
+<td>C, Signals</td>
+<td>✅ Done</td>
+</tr>
+<tr>
+<td><strong>so_long</strong></td>
+<td>Solo</td>
+<td>2D game development with MiniLibX: player movement, collectibles, collision detection</td>
+<td>C, MiniLibX</td>
+<td>✅ Done</td>
+</tr>
+<tr>
+<td><strong>push_swap</strong></td>
+<td>Solo</td>
+<td>Sorting algorithm optimization challenge with limited operations (stack manipulation)</td>
+<td>C</td>
+<td>✅ Done</td>
+</tr>
+</tbody>
+</table>
 
 ### Rank 03 - System Programming
 
-| Project | Type | Description | Technologies | Status |
-|---------|------|-------------|--------------|--------|
-| **philosophers** | Solo | Multithreaded solution to the dining philosophers problem with mutexes and deadlock prevention | C, pthreads | ✅ Done |
-| **minishell** | Group | Unix shell implementation with command parsing, pipes, redirections, and built-in commands | C | ✅ Done |
+<table>
+<thead>
+<tr>
+<th width="20%">Project</th>
+<th width="10%">Type</th>
+<th width="45%">Description</th>
+<th width="15%">Technologies</th>
+<th width="10%">Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>philosophers</strong></td>
+<td>Solo</td>
+<td>Multithreaded solution to the dining philosophers problem with mutexes and deadlock prevention</td>
+<td>C, pthreads</td>
+<td>✅ Done</td>
+</tr>
+<tr>
+<td><strong>minishell</strong></td>
+<td>Group</td>
+<td>Unix shell implementation with command parsing, pipes, redirections, and built-in commands</td>
+<td>C</td>
+<td>✅ Done</td>
+</tr>
+</tbody>
+</table>
 
 ### Rank 04 - Advanced C & Networking
 
-| Project | Type | Description | Technologies | Status |
-|---------|------|-------------|--------------|--------|
-| **netpractice** | Solo | IPv4 networking fundamentals: subnetting, routing, and network configuration | Networking | ✅ Done |
-| **cub3D** | Group | 3D raycasting game engine inspired by Wolfenstein 3D with texture mapping | C, MiniLibX | ✅ Done |
-| **C++ Modules 00-04** | Solo | Object-oriented programming basics: classes, inheritance, polymorphism, operator overloading, exceptions | C++ | ✅ Done |
+<table>
+<thead>
+<tr>
+<th width="20%">Project</th>
+<th width="10%">Type</th>
+<th width="45%">Description</th>
+<th width="15%">Technologies</th>
+<th width="10%">Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>netpractice</strong></td>
+<td>Solo</td>
+<td>IPv4 networking fundamentals: subnetting, routing, and network configuration</td>
+<td>Networking</td>
+<td>✅ Done</td>
+</tr>
+<tr>
+<td><strong>cub3d</strong></td>
+<td>Group</td>
+<td>3D raycasting game engine inspired by Wolfenstein 3D with texture mapping</td>
+<td>C, MiniLibX</td>
+<td>✅ Done</td>
+</tr>
+<tr>
+<td><strong>c++ modules 00-04</strong></td>
+<td>Solo</td>
+<td>Object-oriented programming basics: classes, inheritance, polymorphism, operator overloading, exceptions</td>
+<td>C++</td>
+<td>✅ Done</td>
+</tr>
+</tbody>
+</table>
 
 ### Rank 05 - Web & DevOps
 
-| Project | Type | Description | Technologies | Status |
-|---------|------|-------------|--------------|--------|
-| **C++ Modules 05-09** | Solo | Advanced C++ concepts: templates, STL containers, file I/O, and design patterns | C++ | ✅ Done |
-| **webserv** | Group | HTTP/1.1 web server implementation from scratch (RFC 7230-7235 compliant) with CGI support | C++ | ✅ Done |
-| **inception** | Solo | Docker-based infrastructure setup: WordPress, NGINX, MariaDB with Docker Compose | Docker, Linux | ✅ Done |
+<table>
+<thead>
+<tr>
+<th width="20%">Project</th>
+<th width="10%">Type</th>
+<th width="45%">Description</th>
+<th width="15%">Technologies</th>
+<th width="10%">Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>c++ modules 05-09</strong></td>
+<td>Solo</td>
+<td>Advanced C++ concepts: templates, STL containers, file I/O, and design patterns</td>
+<td>C++</td>
+<td>✅ Done</td>
+</tr>
+<tr>
+<td><strong>webserv</strong></td>
+<td>Group</td>
+<td>HTTP/1.1 web server implementation from scratch (RFC 7230-7235 compliant) with CGI support</td>
+<td>C++</td>
+<td>✅ Done</td>
+</tr>
+<tr>
+<td><strong>inception</strong></td>
+<td>Solo</td>
+<td>Docker-based infrastructure setup: WordPress, NGINX, MariaDB with Docker Compose</td>
+<td>Docker, Linux</td>
+<td>✅ Done</td>
+</tr>
+</tbody>
+</table>
 
 ### Rank 06 - Full-Stack
 
-| Project | Type | Description | Technologies | Status |
-|---------|------|-------------|--------------|--------|
-| **ft_transcendence** | Group | Full-stack web application with real-time multiplayer Pong game, authentication, chat, and user profiles | TypeScript, NestJS | ✅ Done |
+<table>
+<thead>
+<tr>
+<th width="20%">Project</th>
+<th width="10%">Type</th>
+<th width="45%">Description</th>
+<th width="15%">Technologies</th>
+<th width="10%">Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>ft_transcendence</strong></td>
+<td>Group</td>
+<td>Full-stack web application with real-time multiplayer Pong game, authentication, chat, and user profiles</td>
+<td>TypeScript, NestJS</td>
+<td>✅ Done</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
@@ -145,7 +318,7 @@ All projects were completed according to the 42 Lausanne curriculum requirements
 
 <div align="center">
 
-**42 Lausanne Common Core** • 2024
+**42 Lausanne Common Core** • 2024 - 2025
 
 *Peer-to-peer learning • No lectures • Hands-on projects*
 
